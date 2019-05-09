@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/xml/identity_symbols.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/xml/identity_symbols.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/xml/preferences.xml"
+    }
+]

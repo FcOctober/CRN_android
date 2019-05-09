@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [cn.sharesdk:ShareSDK:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.2.aar/53dc154928820bfbd0dd0976400fc7fb/AndroidManifest.xml:2:1-11:12
+MERGED from [cn.sharesdk:OneKeyShare:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.2.aar/81ebe2f60961a61dfdca17a121e4ca4b/AndroidManifest.xml:2:1-11:12
+MERGED from [:crnbase] /Users/fuchao/CRN/Demo/android/crnbase/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:2:1-15:12
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:2:1-28:12
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ce37a655988a07febb8d7822188f9384/AndroidManifest.xml:17:1-22:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/2badbf863f0a51904e69ab500f3b45fe/AndroidManifest.xml:2:1-13:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/99bc514757fef9157590966bdec7b965/AndroidManifest.xml:15:1-20:12
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/68eeb8af0594a6a16be7eebaf688f141/AndroidManifest.xml:2:1-12:12
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/1b9c6c26c70967b87fff7efe08e951e4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d5b581c5cc338c7cba9bfb6e26992000/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5fb1395d87b79ee6a22201d27c617f3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bdb8a6f61880d5f1212c12174f1aa2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a228d8fe38949423c9c8d1ed29f100ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/386c93797bb2504e2b7c80d081d419db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/644535d0756fcc756e03444f5616d7b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f21f36c7ce890e52099e2713cd08c2e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7ec39cb2e7361bc3b9478efca5857ee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/52a62cb61f52ebe3798b26fda93ed76c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/56c7905a79142137b50bd764519dadde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e126b2ddd4cb98b81a25ca1a22e62065/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/77838de24834693a5e41dda7ce924ded/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d123c718b2e6c06196410d65f333267b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2446f53db7c6808a50c25ef44df30e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/50e7147888a9ae953b322a4ec4c5ddc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dffdec915926f624d0cd961d2d144b82/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/32309c5b777cd6cc714907d924d2a9bb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dda5311cf56a97065bbdfe6ade27894a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b83af5c0dd6fc3841f69433c15de2f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/37961baee3b68f339171b4853a11517e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed8c268235219edf80f090ec82344cf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5dcb488305fd9fd72c136c01c60f44c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e26f9d8268fd0f33dc17f636d0f5ccbd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0171d81d762a369c3095ba49baecf0a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/66e597dc25b5aa2a1b9cca74dc2115ac/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2388c959d8c22c1d794b715367c4f4a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8d0f0d6f6f66b5663801ffcd9c6db455/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a8b1fc9c93f21d1c5486fa0e8c4e9440/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/e81144938cffadafcd5a498f9fcba5de/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0bf829dc78eb21159876a9e2aabba40f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/15bd9ffefff50fc23e190c85af12a010/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/8d6386d25c6389501d2a9d18e607fc1f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/caa95feab9f2908c30090d055c2aba3a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/036ba9bbc0eee725aba3010f9a94843b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/490098f2ee1f18d4c405094f466c3755/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0558ac12a5fd4103af189b4c3f825873/AndroidManifest.xml:2:1-13:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/bfdf3a57d784febd38247f41b18c95d6/AndroidManifest.xml:15:1-21:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/449760d905b74a50f1b2be543ce497fb/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:11:5-81
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:8:5-80
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:11:5-80
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:10:5-48:19
+MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:13:5-20
+MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:13:5-20
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:14:5-26:19
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:14:5-26:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:13:5-34:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:13:5-34:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/2badbf863f0a51904e69ab500f3b45fe/AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/2badbf863f0a51904e69ab500f3b45fe/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dffdec915926f624d0cd961d2d144b82/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dffdec915926f624d0cd961d2d144b82/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/32309c5b777cd6cc714907d924d2a9bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/32309c5b777cd6cc714907d924d2a9bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0558ac12a5fd4103af189b4c3f825873/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0558ac12a5fd4103af189b4c3f825873/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dffdec915926f624d0cd961d2d144b82/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:13:9-44
+	android:allowBackup
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:16:9-40
+	tools:replace
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:18:9-37
+	android:usesCleartextTraffic
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:11:9-66
+activity#ctrip.wireless.android.crn.ui.MainActivity
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:windowSoftInputMode
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:20:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:25:27-74
+activity#ctrip.wireless.android.crn.CRNBaseActivity
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:29:9-88
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:29:19-76
+activity#ctrip.wireless.android.crn.ui.WebViewActivity
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:30:9-82
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:30:19-79
+activity#ctrip.wireless.android.crn.ui.CBaseActivity
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:31:9-80
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:31:19-77
+activity#ctrip.wireless.android.crn.wxapi.WXEntryActivity
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:33:9-39:84
+	android:label
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:37:13-44
+	android:exported
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:35:13-36
+	android:theme
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:39:13-72
+	android:taskAffinity
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:34:13-50
+activity#ctrip.wireless.android.crn.wxapi.WXPayEntryActivity
+ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:41:9-47:75
+	android:screenOrientation
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:44:13-45
+	android:launchMode
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:43:13-36
+	android:theme
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:47:13-72
+	android:name
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:42:13-53
+uses-sdk
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+MERGED from [cn.sharesdk:ShareSDK:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.2.aar/53dc154928820bfbd0dd0976400fc7fb/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.2.aar/53dc154928820bfbd0dd0976400fc7fb/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.2.aar/81ebe2f60961a61dfdca17a121e4ca4b/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.2.aar/81ebe2f60961a61dfdca17a121e4ca4b/AndroidManifest.xml:7:5-9:41
+MERGED from [:crnbase] /Users/fuchao/CRN/Demo/android/crnbase/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:crnbase] /Users/fuchao/CRN/Demo/android/crnbase/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:7:5-9:41
+MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:7:5-9:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ce37a655988a07febb8d7822188f9384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ce37a655988a07febb8d7822188f9384/AndroidManifest.xml:20:5-44
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/2badbf863f0a51904e69ab500f3b45fe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/2badbf863f0a51904e69ab500f3b45fe/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/99bc514757fef9157590966bdec7b965/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/99bc514757fef9157590966bdec7b965/AndroidManifest.xml:18:5-43
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/68eeb8af0594a6a16be7eebaf688f141/AndroidManifest.xml:8:5-10:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/68eeb8af0594a6a16be7eebaf688f141/AndroidManifest.xml:8:5-10:41
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/1b9c6c26c70967b87fff7efe08e951e4/AndroidManifest.xml:7:5-9:41
+MERGED from [me.shaohui.advancedluban:library:1.3.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/library-1.3.2.aar/1b9c6c26c70967b87fff7efe08e951e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d5b581c5cc338c7cba9bfb6e26992000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/d5b581c5cc338c7cba9bfb6e26992000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5fb1395d87b79ee6a22201d27c617f3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5fb1395d87b79ee6a22201d27c617f3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bdb8a6f61880d5f1212c12174f1aa2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bdb8a6f61880d5f1212c12174f1aa2fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a228d8fe38949423c9c8d1ed29f100ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a228d8fe38949423c9c8d1ed29f100ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/386c93797bb2504e2b7c80d081d419db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/386c93797bb2504e2b7c80d081d419db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/644535d0756fcc756e03444f5616d7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/644535d0756fcc756e03444f5616d7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f21f36c7ce890e52099e2713cd08c2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f21f36c7ce890e52099e2713cd08c2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7ec39cb2e7361bc3b9478efca5857ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7ec39cb2e7361bc3b9478efca5857ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/52a62cb61f52ebe3798b26fda93ed76c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/52a62cb61f52ebe3798b26fda93ed76c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/56c7905a79142137b50bd764519dadde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/56c7905a79142137b50bd764519dadde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e126b2ddd4cb98b81a25ca1a22e62065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e126b2ddd4cb98b81a25ca1a22e62065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/77838de24834693a5e41dda7ce924ded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/77838de24834693a5e41dda7ce924ded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d123c718b2e6c06196410d65f333267b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d123c718b2e6c06196410d65f333267b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2446f53db7c6808a50c25ef44df30e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2446f53db7c6808a50c25ef44df30e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/50e7147888a9ae953b322a4ec4c5ddc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/50e7147888a9ae953b322a4ec4c5ddc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dffdec915926f624d0cd961d2d144b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dffdec915926f624d0cd961d2d144b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/32309c5b777cd6cc714907d924d2a9bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/32309c5b777cd6cc714907d924d2a9bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dda5311cf56a97065bbdfe6ade27894a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/dda5311cf56a97065bbdfe6ade27894a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b83af5c0dd6fc3841f69433c15de2f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6b83af5c0dd6fc3841f69433c15de2f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/37961baee3b68f339171b4853a11517e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/37961baee3b68f339171b4853a11517e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed8c268235219edf80f090ec82344cf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed8c268235219edf80f090ec82344cf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5dcb488305fd9fd72c136c01c60f44c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5dcb488305fd9fd72c136c01c60f44c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e26f9d8268fd0f33dc17f636d0f5ccbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e26f9d8268fd0f33dc17f636d0f5ccbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0171d81d762a369c3095ba49baecf0a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0171d81d762a369c3095ba49baecf0a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/66e597dc25b5aa2a1b9cca74dc2115ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/66e597dc25b5aa2a1b9cca74dc2115ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2388c959d8c22c1d794b715367c4f4a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2388c959d8c22c1d794b715367c4f4a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8d0f0d6f6f66b5663801ffcd9c6db455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8d0f0d6f6f66b5663801ffcd9c6db455/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a8b1fc9c93f21d1c5486fa0e8c4e9440/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a8b1fc9c93f21d1c5486fa0e8c4e9440/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/e81144938cffadafcd5a498f9fcba5de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/e81144938cffadafcd5a498f9fcba5de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0bf829dc78eb21159876a9e2aabba40f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0bf829dc78eb21159876a9e2aabba40f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/15bd9ffefff50fc23e190c85af12a010/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/15bd9ffefff50fc23e190c85af12a010/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/8d6386d25c6389501d2a9d18e607fc1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/8d6386d25c6389501d2a9d18e607fc1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/caa95feab9f2908c30090d055c2aba3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/caa95feab9f2908c30090d055c2aba3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/036ba9bbc0eee725aba3010f9a94843b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/036ba9bbc0eee725aba3010f9a94843b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/490098f2ee1f18d4c405094f466c3755/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/490098f2ee1f18d4c405094f466c3755/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0558ac12a5fd4103af189b4c3f825873/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0558ac12a5fd4103af189b4c3f825873/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/bfdf3a57d784febd38247f41b18c95d6/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/bfdf3a57d784febd38247f41b18c95d6/AndroidManifest.xml:19:5-43
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/449760d905b74a50f1b2be543ce497fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/449760d905b74a50f1b2be543ce497fb/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.CAMERA
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:12:22-62
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:15:19-79
+provider#android.support.v4.content.FileProvider
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:17:9-25:20
+	android:grantUriPermissions
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:19:13-64
+	android:exported
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:18:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:22:13-24:54
+	android:resource
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:24:17-51
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:23:17-67
+activity#com.darsh.multipleimageselect.activities.AlbumSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:17:13-88
+intent-filter#category:name:android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:21:13-23:29
+category#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:22:27-73
+activity#com.darsh.multipleimageselect.activities.ImageSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:26:13-88

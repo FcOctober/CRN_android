@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

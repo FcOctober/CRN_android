@@ -1,0 +1,4 @@
+#Tue Apr 30 15:00:01 CST 2019
+base.0=/Users/fuchao/CRN/Pinjinjin/android/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

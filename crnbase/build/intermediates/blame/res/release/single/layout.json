@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/rn_activity.xml",
+        "source": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/src/main/res/layout/rn_activity.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a4085fe160877145fd178b7d71e05c1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a4085fe160877145fd178b7d71e05c1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a4085fe160877145fd178b7d71e05c1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a4085fe160877145fd178b7d71e05c1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/f6f571b74b7018d7e33c12ef60d57f53/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a4085fe160877145fd178b7d71e05c1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9ad8c17c2a5e980820d29c87b4d896ae/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/rn_fragment.xml",
+        "source": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/src/main/res/layout/rn_fragment.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout/abc_alert_dialog_title_material.xml"
+    }
+]

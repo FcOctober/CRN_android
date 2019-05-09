@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/fuchao/CRN/Pinjinjin/android/crnbase/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/fuchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4a3630a1edf9ce8f74ea9ae41cec7c8/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

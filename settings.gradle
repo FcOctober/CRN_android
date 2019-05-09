@@ -1,0 +1,9 @@
+include ':app', ':crnbase'
+include ':react-native-gesture-handler'
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+
+if (!settings.hasProperty("useReactAndroidSource") || Boolean.parseBoolean(useReactAndroidSource)) {
+    include ':ReactAndroid'
+    project(':ReactAndroid').projectDir = new File(rootProject.projectDir, './rnSource/ReactAndroid')
+}
+
