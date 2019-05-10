@@ -64,13 +64,14 @@ MobSDK {
 }
 
 dependencies {
-//    implementation project(':react-native-gesture-handler')
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation project(':crnbase')
+    implementation project(':react-native-gesture-handler')
     implementation 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.5@aar'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.7'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
     implementation 'com.jph.takephoto:takephoto_library:4.0.3'
     implementation 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:+'
+
 }

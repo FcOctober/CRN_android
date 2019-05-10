@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){var t=r(d[0]);Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var l=t(r(d[1]));e.default=function(t){var n=t.tintColor;return l.default.createElement("svg",{width:"24px",height:"24px",viewBox:"0 0 24 24"},l.default.createElement("path",{fill:n,d:"M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"}))}},666764,[2,11]);

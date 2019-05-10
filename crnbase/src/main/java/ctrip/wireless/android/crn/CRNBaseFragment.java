@@ -31,6 +31,7 @@ import android.widget.Toast;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactRootView;
 import com.facebook.react.modules.core.DefaultHardwareBackBtnHandler;
+import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
 
 import ctrip.wireless.android.crn.business.R;
 import ctrip.crn.instance.CRNInstanceState;
@@ -169,7 +170,8 @@ public final class CRNBaseFragment extends Fragment
             if (mReactRootView != null && mReactRootView.getReactInstanceManager() != null) {
                 mReactRootView.unmountReactApplication();
             }
-            mReactRootView = new ReactRootView(getActivity());
+//            mReactRootView = new ReactRootView(getActivity());
+            mReactRootView = new RNGestureHandlerEnabledRootView(getActivity());
             mReactRootView.markEntryRootView(true);
             mReactRootView.setAllowStatistic(true);
             mReactRootView.setReactRootViewDisplayCallback(CRNBaseFragment.this);

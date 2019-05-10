@@ -39,6 +39,7 @@ import android.widget.Spinner;
 import android.widget.Switch;
 import android.widget.Toast;
 
+
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -64,6 +65,16 @@ public class MainActivity extends AppCompatActivity {
     private static final String CRN_DEMO_SP_NAME = "crnDemoSP";
     private static final String CRN_DEMO_PRELOAD_COMMON = "PreloadCommon";
     private static final String CRN_DEMO_ADDRESS_LIST = "addressList";
+
+//    @Override
+//    protected ReactActivityDelegate createReactActivityDelegate() {
+//        return new ReactActivityDelegate(this, getMainComponentName()) {
+//            @Override
+//            protected ReactRootView createRootView() {
+//                return new RNGestureHandlerEnabledRootView(MainActivity.this);
+//            }
+//        };
+//    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -130,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean open) {
                 localSP.edit().putBoolean(CRN_DEMO_PRELOAD_COMMON, open).commit();
-                Toast.makeText(MainActivity.this, "已" + (open ? "打开" : "关闭") +  "CRN预加载，重启APP生效", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "已" + (open ? "打开" : "关闭") + "CRN预加载，重启APP生效", Toast.LENGTH_SHORT).show();
             }
         });
     }
@@ -170,7 +181,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public View getView(int position, View convertView, ViewGroup parent) {
                     View view = super.getView(position, convertView, parent);
-                    view.setPadding(0, view.getPaddingTop(),view.getPaddingRight(),view.getPaddingBottom());
+                    view.setPadding(0, view.getPaddingTop(), view.getPaddingRight(), view.getPaddingBottom());
                     return view;
                 }
             };
@@ -181,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public View getView(int position, View convertView, ViewGroup parent) {
                     View view = super.getView(position, convertView, parent);
-                    view.setPadding(0, view.getPaddingTop(),view.getPaddingRight(),view.getPaddingBottom());
+                    view.setPadding(0, view.getPaddingTop(), view.getPaddingRight(), view.getPaddingBottom());
                     return view;
                 }
             };
@@ -258,14 +269,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void startCRNBaseActivity(String url) {
-        Log.e("startCRNBaseActivity",url);
+        Log.e("startCRNBaseActivity", url);
         if (!CRNURL.isCRNURL(url)) {
             Toast.makeText(MainActivity.this, "CRN URL is illegal!", Toast.LENGTH_SHORT).show();
             return;
         }
         CRNURL crnurl = new CRNURL(url);
         if (crnurl.getRnSourceType() != CRNURL.SourceType.Online) {
-            Log.e("crnurl",crnurl.getProductName());
+            Log.e("crnurl", crnurl.getProductName());
             PackageManager.installPackageForProduct(crnurl.getProductName());
         }
         Intent intent = new Intent(MainActivity.this, CBaseActivity.class);

@@ -7,6 +7,7 @@ INJECTED from /Users/fuchao/CRN/Demo/android/app/src/main/AndroidManifest.xml:2:
 MERGED from [cn.sharesdk:ShareSDK:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ShareSDK-3.5.2.aar/53dc154928820bfbd0dd0976400fc7fb/AndroidManifest.xml:2:1-11:12
 MERGED from [cn.sharesdk:OneKeyShare:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.2.aar/81ebe2f60961a61dfdca17a121e4ca4b/AndroidManifest.xml:2:1-11:12
 MERGED from [:crnbase] /Users/fuchao/CRN/Demo/android/crnbase/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/fuchao/CRN/Demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:2:1-15:12
 MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:2:1-28:12
 MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/multipleimageselect-1.0.4.aar/ff261204f278ca1cf433b4fee0dd46b1/AndroidManifest.xml:2:1-36:12
@@ -188,6 +189,8 @@ MERGED from [cn.sharesdk:OneKeyShare:3.5.2] /Users/fuchao/.gradle/caches/transfo
 MERGED from [cn.sharesdk:OneKeyShare:3.5.2] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/OneKeyShare-3.5.2.aar/81ebe2f60961a61dfdca17a121e4ca4b/AndroidManifest.xml:7:5-9:41
 MERGED from [:crnbase] /Users/fuchao/CRN/Demo/android/crnbase/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:crnbase] /Users/fuchao/CRN/Demo/android/crnbase/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/fuchao/CRN/Demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/fuchao/CRN/Demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:7:5-9:41
 MERGED from [ctrip.wireless.android:ReactAndroid:0.59.0-01-SNAPSHOT] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/ReactAndroid-0.59.0-01-20190411.014339-3.aar/dbeeff5fa13bc05cd7b1b88cbad4d1ab/AndroidManifest.xml:7:5-9:41
 MERGED from [com.jph.takephoto:takephoto_library:4.0.3] /Users/fuchao/.gradle/caches/transforms-1/files-1.1/takephoto_library-4.0.3.aar/8c0f6cee904db1411c0a8c6762ff2445/AndroidManifest.xml:7:5-9:41

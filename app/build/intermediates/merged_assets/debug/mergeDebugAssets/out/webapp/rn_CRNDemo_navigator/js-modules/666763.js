@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){m.exports=r(d[0]).registerAsset({__packager_asset:!0,httpServerLocation:"/assets/node_modules/react-navigation-stack/src/views/assets",width:12,height:21,scales:[1,1.5,2,3,4],hash:"c90fb4585dd852a3d67af39baf923f67",name:"back-icon",type:"png"})},666763,[164]);
